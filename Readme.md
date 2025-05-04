@@ -88,5 +88,3 @@ Licença MIT
 
 📄 Licença
 Distribuído sob a licença MIT, assim como o template original.
-
-⚠️ Observação: Este é um projeto de aprendizado e representa o início da minha jornada como desenvolvedor. Estou aberto a sugestões de melhoria e feedback construtivo!
